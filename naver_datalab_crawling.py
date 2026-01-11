@@ -378,8 +378,8 @@ if __name__ == "__main__":
     print("   4. 아래 코드에 붙여넣기\n")
 
     # API 키 설정 (사용자가 입력해야 함)
-    NAVER_CLIENT_ID = 'wEUFHQ5t8vzQ12v5QAIb'
-    NAVER_CLIENT_SECRET = 'JKZlQ7L_xz'
+    NAVER_CLIENT_ID = '####'
+    NAVER_CLIENT_SECRET = '####'
 
     # API 키가 설정되지 않은 경우
     if NAVER_CLIENT_ID == 'YOUR_CLIENT_ID':
